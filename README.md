@@ -1,2 +1,1 @@
-# box_embeddings
-# box_embeddings
+# minimal box embeddings
